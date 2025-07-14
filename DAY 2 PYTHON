@@ -1,0 +1,299 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "a8361882-8903-452a-bd0f-b8a29941d641",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "NameError",
+     "evalue": "name 'Variables' is not defined",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+      "Cell \u001b[0;32mIn[1], line 1\u001b[0m\n\u001b[0;32m----> 1\u001b[0m \u001b[43mVariables\u001b[49m \u001b[38;5;129;01min\u001b[39;00m python\n\u001b[1;32m      2\u001b[0m X\u001b[38;5;241m=\u001b[39m\u001b[38;5;241m2\u001b[39m\n\u001b[1;32m      3\u001b[0m y\u001b[38;5;241m=\u001b[39m\u001b[38;5;241m1\u001b[39m\n",
+      "\u001b[0;31mNameError\u001b[0m: name 'Variables' is not defined"
+     ]
+    }
+   ],
+   "source": [
+    "Variables in python\n",
+    "X=2\n",
+    "y=1\n",
+    "z=x+y"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "36e506b6-766e-477c-8b16-eb290461dc62",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "x=2;\n",
+    "y=1;\n",
+    "z=x+y"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "a22c4c62-b3df-439e-8da0-e289e9818dab",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3"
+      ]
+     },
+     "execution_count": 6,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "z"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "f90a7329-35f8-4b7e-becf-11eeb853209e",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "5"
+      ]
+     },
+     "execution_count": 8,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "x=3;\n",
+    "y=2;\n",
+    "z=x+y;\n",
+    "z\n",
+    "\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "01e8d02c-d548-489d-9c02-3325248e3f77",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "NameError",
+     "evalue": "name 'RULES' is not defined",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+      "Cell \u001b[0;32mIn[9], line 1\u001b[0m\n\u001b[0;32m----> 1\u001b[0m \u001b[43mRULES\u001b[49m\n",
+      "\u001b[0;31mNameError\u001b[0m: name 'RULES' is not defined"
+     ]
+    }
+   ],
+   "source": [
+    "RULES"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "932701dc-6eec-443e-a088-8d587f526203",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (1703283746.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[10], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    SINGLE QUOTE\u001b[0m\n\u001b[0m           ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "SINGLE QUOTE\n",
+    "name='zobiya'\n",
+    "print(name)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "f443690b-797a-4958-bb5d-60c0a612dd88",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "zobiya\n"
+     ]
+    }
+   ],
+   "source": [
+    "name='zobiya'\n",
+    "print(name)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "8316cbd2-929f-4b66-a7e5-f45614ecaf80",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "zeba ansari\n"
+     ]
+    }
+   ],
+   "source": [
+    "fullname='zeba ansari'\n",
+    "print(fullname)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "7e826eed-20a9-4e14-a260-3953f7e7d3be",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Zeba Ansari\n"
+     ]
+    }
+   ],
+   "source": [
+    "#req:to correct the format\n",
+    "print(fullname.title())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "d8b2251e-56b7-428f-a5f2-5565bb6dbaa0",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "ZEBA ANSARI\n"
+     ]
+    }
+   ],
+   "source": [
+    "#req: I want a entire name in capitals\n",
+    "print(fullname.upper())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "id": "2af3b40c-c842-45a3-9ca5-d8eb23a60f33",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "AttributeError",
+     "evalue": "'str' object has no attribute 'lowercase'",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mAttributeError\u001b[0m                            Traceback (most recent call last)",
+      "Cell \u001b[0;32mIn[15], line 2\u001b[0m\n\u001b[1;32m      1\u001b[0m \u001b[38;5;66;03m#req:i want the entire name in small case\u001b[39;00m\n\u001b[0;32m----> 2\u001b[0m \u001b[38;5;28mprint\u001b[39m(\u001b[43mfullname\u001b[49m\u001b[38;5;241;43m.\u001b[39;49m\u001b[43mlowercase\u001b[49m())\n",
+      "\u001b[0;31mAttributeError\u001b[0m: 'str' object has no attribute 'lowercase'"
+     ]
+    }
+   ],
+   "source": [
+    "#req:i want the entire name in small case\n",
+    "print(fullname.lowercase())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 16,
+   "id": "8db332ad-8bca-4cc4-bced-894e1acbe061",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "AttributeError",
+     "evalue": "'str' object has no attribute 'smallercase'",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mAttributeError\u001b[0m                            Traceback (most recent call last)",
+      "Cell \u001b[0;32mIn[16], line 1\u001b[0m\n\u001b[0;32m----> 1\u001b[0m \u001b[38;5;28mprint\u001b[39m(\u001b[43mfullname\u001b[49m\u001b[38;5;241;43m.\u001b[39;49m\u001b[43msmallercase\u001b[49m())\n",
+      "\u001b[0;31mAttributeError\u001b[0m: 'str' object has no attribute 'smallercase'"
+     ]
+    }
+   ],
+   "source": [
+    "print(fullname.smallercase())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "id": "54dd1022-1d4b-4f9e-a5ed-b389f250511f",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "zeba ansari\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(fullname.lower())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d093002f-441e-4dd9-8a90-3cb7212bb5ac",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "anaconda-2024.02-py310",
+   "language": "python",
+   "name": "conda-env-anaconda-2024.02-py310-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.14"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
